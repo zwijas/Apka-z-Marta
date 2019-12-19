@@ -1,0 +1,73 @@
+{
+	"lyrics": [{
+		"title": "10 w skali Beauforta",
+		"artist": "Krzysztof Klenczon",
+		"zwrotka1": ["Kołysał nas zachodni wiatr,", "Brzeg gdzieś za rufą został.", "I nagle ktoś, jak papier zbladł", "Sztorm idzie, panie bosman!"],
+		"zwrotka2": ["Z zasłony ołowianych chmur", "Ulewa spadła nagle", "Rzucało nami w górę, w dół", "I fala zmyła żagle"],
+		"zwrotka3": ["Gdzie został ciepły, cichy kąt", "I brzegu kształt znajomy", "Zasnuły mgły daleki ląd", "Dokładnie, z każdej strony."],
+		"zwrotka4": ["O pokład znów uderzył deszcz", "I padał już od rana.", "Diabelnie ciężki to był rejs,", "Szczególnie dla bosmana."],
+		"refren1": ["A bosman tylko zapiął płaszcz,", "I zaklął - Ech, do czorta!", "Nie daję łajbie żadnych szans,", "Dziesięć w skali Beauforta!"],
+		"refren2": ["A bosman tylko zapiął płaszcz", "I zaklął - Ech, do czorta!", "Przedziwne czasem sny się ma,", "Dziesięć w skali Beauforta!"]
+	}, {
+		"title": "Kołysanka dla nieznajomej"
+		"artist": "Perfect"
+		"zwrotka1": ["Gdy nie bawi cię już", "Świat zabawek mechanicznych", "Kiedy dręczy cię ból", "Niefizyczny"],
+		"zwrotka2": ["Zamiast słuchać bzdur", "Głupich telefonicznych wróżek zza siedmiu mórz", "Spytaj siebie czego pragniesz", "Dlaczego kłamiesz, że miałaś wszystko"],
+		"zwrotka3": ["Gdy udając że śpisz", "W głowie tropisz bajki z gazet", "Kiedy nie chcesz już śnić", "Cudzych marzeń"],
+		"zwrotka4": ["Bosa do mnie przyjdź", "I od progu bezwstydnie powiedz mi czego chcesz", "Słuchaj jak dwa serca biją", "Co ludzie myślą - to nieistotne"],
+		"zwrotka5": ["Kochaj mnie", "Kochaj mnie", "Kochaj mnie nieprzytomnie", "Jak zapalniczka płomień"],
+		"zwrotka6": ["Swoje miejsce znajdź", "I nie pytaj czy taki układ ma jakiś sens", "Słuchaj co twe ciało mówi", "W miłosnej studni już nie utoniesz"],
+		"zwrotka7": ["Kochaj mnie", "Kochaj mnie", "Kochaj mnie nieprzytomnie", "Jak zapalniczka płomień"],
+		"zwrotka8": ["Kochaj mnie", "Kochaj mnie", "Kochaj mnie nieprzytomnie", "Jak księżyc w oknie śmiej się i płacz"]
+	}, {
+		"title": "a",
+		"artist": "wykonawca przykładowy",
+		"zwrotka1": ["a11", "a12", "a13", "a14"],
+		"zwrotka2": ["a21", "a22", "a23", "a24"],
+		"zwrotka3": ["a31", "a32", "a33", "a34"],
+		"refren1": ["refa11", "refa12", "refa13", "refa14"],
+		"refren2": ["refa21", "refa22", "refa23", "refa24"]
+	}, {
+		"title": "b",
+		"artist": "wykonawca przykładowy",
+		"zwrotka1": ["b11", "b12", "b13", "b14"],
+		"zwrotka2": ["b21", "b22", "b23", "b24"],
+		"zwrotka3": ["b31", "b32", "b33", "b34"],
+		"refren1": ["refb11", "refb12", "refb13", "refb14"],
+		"refren2": ["refb21", "refb22", "refb23", "refb24"]
+	}, {
+		"title": "c",
+		"artist": "wykonawca przykładowy",
+		"zwrotka1": ["c11", "c12", "c13", "c14"],
+		"zwrotka2": ["c21", "c22", "c23", "c24"],
+		"zwrotka3": ["c31", "c32", "c33", "c34"],
+		"refren1": ["refC11", "refC12", "refC13", "refC14"],
+		"refren2": ["refC21", "refC22", "refC23", "refC24"]
+	}],
+	"chords": [{
+		"title": "10 w skali_Beauforta",
+		"zwrotka": ["a d", "E7 a", "d a", "d H7 E7"],
+		"refren": ["F C F C", "F E7 a", "F G C E7 a", "d E7 a"],
+	}, {
+		"title": "Kołysanka dla nieznajomej",
+		"zwrotka1": ["C a", "F", "C a", "F"],
+		"zwrotka2": ["C", "a e F C F", "G a", "F G"],
+		"zwrotka3": ["C a", "F", "C a", "F"],
+		"zwrotka4": ["C", "a e F C F", "G a", "F G"],
+		"zwrotka5": ["C G7 a7 G C", "C G7 a7 G C", "C G7 a7", "e"],
+		"zwrotka6": ["C", "a e F C F", "G a", "F G"],
+		"zwrotka7": ["C G7 a7 G C", "C G7 a7 G C", "C G7 a7", "e"],
+		"zwrotka8": ["C G7 a7 G C", "C G7 a7 G C", "C G7 a7", "e F"]
+	}, {
+		"title": "a",
+		"zwrotka": ["a a", "a b", "a c", "a d"],
+		"refren": ["a e", "a f", "a g", "a h"]
+	}, {
+		"title": "b",
+		"zwrotka": ["b a", "b b", "b c", "b d"],
+		"refren": ["b e", "b f", "b g", "b h"]
+	}, {
+		"title": "c",
+		"zwrotka": ["c a", "c b", "c c", "c d"],
+		"refren": ["c e", "c f", "c g", "c h"]
+}
