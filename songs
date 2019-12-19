@@ -9,8 +9,8 @@
 		"refren1": ["A bosman tylko zapiął płaszcz,", "I zaklął - Ech, do czorta!", "Nie daję łajbie żadnych szans,", "Dziesięć w skali Beauforta!"],
 		"refren2": ["A bosman tylko zapiął płaszcz", "I zaklął - Ech, do czorta!", "Przedziwne czasem sny się ma,", "Dziesięć w skali Beauforta!"]
 	}, {
-		"title": "Kołysanka dla nieznajomej"
-		"artist": "Perfect"
+		"title": "Kołysanka dla nieznajomej",
+		"artist": "Perfect",
 		"zwrotka1": ["Gdy nie bawi cię już", "Świat zabawek mechanicznych", "Kiedy dręczy cię ból", "Niefizyczny"],
 		"zwrotka2": ["Zamiast słuchać bzdur", "Głupich telefonicznych wróżek zza siedmiu mórz", "Spytaj siebie czego pragniesz", "Dlaczego kłamiesz, że miałaś wszystko"],
 		"zwrotka3": ["Gdy udając że śpisz", "W głowie tropisz bajki z gazet", "Kiedy nie chcesz już śnić", "Cudzych marzeń"],
@@ -47,7 +47,7 @@
 	"chords": [{
 		"title": "10 w skali_Beauforta",
 		"zwrotka": ["a d", "E7 a", "d a", "d H7 E7"],
-		"refren": ["F C F C", "F E7 a", "F G C E7 a", "d E7 a"],
+		"refren": ["F C F C", "F E7 a", "F G C E7 a", "d E7 a"]
 	}, {
 		"title": "Kołysanka dla nieznajomej",
 		"zwrotka1": ["C a", "F", "C a", "F"],
@@ -70,4 +70,5 @@
 		"title": "c",
 		"zwrotka": ["c a", "c b", "c c", "c d"],
 		"refren": ["c e", "c f", "c g", "c h"]
+	}]
 }
